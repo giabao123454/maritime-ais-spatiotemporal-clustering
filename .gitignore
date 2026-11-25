@@ -1,0 +1,28 @@
+# Dữ liệu AIS và bản đồ không gian (dung lượng lớn)
+data/
+*.csv
+*.zip
+*.tar.gz
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.geojson
+*.gpkg
+*.parquet
+
+# Môi trường ảo & bộ nhớ đệm Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Tệp cấu hình IDE & hệ điều hành
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
